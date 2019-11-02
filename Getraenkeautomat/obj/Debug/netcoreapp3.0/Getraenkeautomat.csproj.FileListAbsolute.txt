@@ -1,0 +1,11 @@
+H:\Programmieren\C# Projekte\Automat\Getraenkeautomat\Getraenkeautomat\Getraenkeautomat\obj\Debug\netcoreapp3.0\Getraenkeautomat.csprojAssemblyReference.cache
+H:\Programmieren\C# Projekte\Automat\Getraenkeautomat\Getraenkeautomat\Getraenkeautomat\obj\Debug\netcoreapp3.0\Getraenkeautomat.AssemblyInfoInputs.cache
+H:\Programmieren\C# Projekte\Automat\Getraenkeautomat\Getraenkeautomat\Getraenkeautomat\obj\Debug\netcoreapp3.0\Getraenkeautomat.AssemblyInfo.cs
+H:\Programmieren\C# Projekte\Automat\Getraenkeautomat\Getraenkeautomat\Getraenkeautomat\bin\Debug\netcoreapp3.0\Getraenkeautomat.exe
+H:\Programmieren\C# Projekte\Automat\Getraenkeautomat\Getraenkeautomat\Getraenkeautomat\bin\Debug\netcoreapp3.0\Getraenkeautomat.deps.json
+H:\Programmieren\C# Projekte\Automat\Getraenkeautomat\Getraenkeautomat\Getraenkeautomat\bin\Debug\netcoreapp3.0\Getraenkeautomat.runtimeconfig.json
+H:\Programmieren\C# Projekte\Automat\Getraenkeautomat\Getraenkeautomat\Getraenkeautomat\bin\Debug\netcoreapp3.0\Getraenkeautomat.runtimeconfig.dev.json
+H:\Programmieren\C# Projekte\Automat\Getraenkeautomat\Getraenkeautomat\Getraenkeautomat\bin\Debug\netcoreapp3.0\Getraenkeautomat.dll
+H:\Programmieren\C# Projekte\Automat\Getraenkeautomat\Getraenkeautomat\Getraenkeautomat\bin\Debug\netcoreapp3.0\Getraenkeautomat.pdb
+H:\Programmieren\C# Projekte\Automat\Getraenkeautomat\Getraenkeautomat\Getraenkeautomat\obj\Debug\netcoreapp3.0\Getraenkeautomat.dll
+H:\Programmieren\C# Projekte\Automat\Getraenkeautomat\Getraenkeautomat\Getraenkeautomat\obj\Debug\netcoreapp3.0\Getraenkeautomat.pdb
